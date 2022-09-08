@@ -22,11 +22,12 @@ Done:
 `+ Dex Two`  
 `+ DoubleEntryPoint`  
 `+ Good Samaritan`  
-  
+`+ Puzzle Wallet`  
+
 Not yet:  
 `- Gatekeeper Two`  
 `- MagicNumber`  
 `- MagicNumber`  
 `- Denial`  
-`- Puzzle Wallet`  
+
 `- Motorbike`  
