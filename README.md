@@ -27,7 +27,5 @@ Done:
 Not yet:  
 `- Gatekeeper Two`  
 `- MagicNumber`  
-`- MagicNumber`  
 `- Denial`  
-
 `- Motorbike`  
